@@ -1,0 +1,91 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch RadixSort",
+            "request": "launch",
+            "mainClass": "RadixSort",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountSort",
+            "request": "launch",
+            "mainClass": "CountSort",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShellSort",
+            "request": "launch",
+            "mainClass": "ShellSort",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataChecker",
+            "request": "launch",
+            "mainClass": "DataChecker",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertSort",
+            "request": "launch",
+            "mainClass": "InsertSort",
+            "projectName": "Sort_3b2526c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "Sort_3b2526c9"
+        }
+    ]
+}
